@@ -163,7 +163,7 @@ Linear algebra is the mathematics of spatial relationships that deals with the m
 `Vector and Matrix Calculations`
 `Linear Transformations`
 `Vector Spaces`
-`Eigenvalues and Eigenvectors`
+`Eigenvectors`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
