@@ -240,7 +240,7 @@ What is next for you? The possibilities are boundless and overlapping:
 
 - Look for a job. Mathematicians go into careers as statisticians, financial analysts, actuaries, and more!
 - Join a local math club (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging ideas in mathematics by subscribing to a math journal or joining a professional math organization.
+- Pay attention to emerging ideas in mathematics by subscribing to a math journal or joining an organization.
 
 <img src="https://raw.githubusercontent.com/Cranjah/Curriculum-Computer-Science-OSSU/refs/heads/master/images/keep-learning.png" alt="Keep Learning."/>
 
