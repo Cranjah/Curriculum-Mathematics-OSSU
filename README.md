@@ -113,7 +113,7 @@ Most people's views of mathematics are destroyed in school by focusing on memori
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | - | 🚧 | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | No Proof Yet
-[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | - | ✅ | [Pre-College Course on Mathematics for CS](https://open.hpi.de/learn/mathe2023) | [Own Certificate](https://raw.githubusercontent.com/Cranjah/Cranjah/refs/heads/main/images/Certificates-IT-MMMuench-21.png)
+[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | - | ✅ | [Pre-College Course on Mathematics](https://open.hpi.de/learn/mathe2023) | [Own Certificate](https://raw.githubusercontent.com/Cranjah/Cranjah/refs/heads/main/images/Certificates-IT-MMMuench-21.png)
 
 ### Calculus 
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
