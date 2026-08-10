@@ -214,7 +214,7 @@ Upon finishing **all the core mathematics courses**, students can choose to take
 To complete your study of Advanced Topics, meet both the Breadth and Depth requirements.
 
 - **Breadth Requirement:** For each of the five Advanced Topics below, select one course to take as an elective.
-- **Depth Requirement:** Select one Advanced Topic below and take 3 additional courses from that topic.
+- **Depth Requirement:** Select one of the Advanced Topics below and take 3 additional courses from that topic.
 
 ### Mathematical Logic
 Truth-Functional Logic, Truth Tables, First-Order Logic, Modal Logic, etc.
