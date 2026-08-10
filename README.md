@@ -68,7 +68,7 @@ just remember that you can't purchase success!
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
-> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU CS website](https://cs.ossu.dev) or [OSSU CS GitHub Repo](https://github.com/ossu/computer-science). Some known outdated materials are:
+> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU Math website](https://math.ossu.dev/) or [OSSU Math GitHub Repo](https://github.com/ossu/math). Some known outdated materials are:
 >  - An unmaintained and deprecated firebase app. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 >  - An unmaintained and deprecated trello board
 >  - Third-party notion templates
