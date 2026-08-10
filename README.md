@@ -38,7 +38,7 @@ but specifically chosen to meet the following criteria.
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
 - Be of generally high quality in teaching materials and pedagogical principles
-- Match our curricular standards, the [CUPM 2015](CURRICULAR_GUIDELINES.md): Curriculum Guidelines for Undergraduate Degree Programs in Mathematics
+- Match our curricular standards, the [2015 CUPM](CURRICULAR_GUIDELINES.md): Curriculum Guidelines for Undergraduate Degree Programs in Mathematics
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 
