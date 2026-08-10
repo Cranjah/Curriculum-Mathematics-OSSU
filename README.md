@@ -19,7 +19,7 @@
 - [Community](#community)
 - [Code of Conduct](#code-of-conduct)
 - [The Math Curriculum](#the-math-curriculum)
-- [License](#license)
+- [License](##license)
 
 
 # Summary
@@ -42,7 +42,7 @@ but specifically chosen to meet the following criteria.
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 
-**Duration**. It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 18-22 hours per week to your studies.
+**Duration**. It is possible to finish the curriculum within about 2 years if you plan carefully and devote roughly 20 hours per week to your studies.
 
 **Cost**. All or nearly all course material is available for free. However, some courses may charge money for assignments / tests / projects to be graded. Note that both [edX](https://courses.edx.org/financial-assistance/) and [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) offer financial aid.
 
@@ -111,9 +111,9 @@ Most people's views of mathematics are destroyed in school by focusing on memori
 `Number Theory`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | - | - | - | -
-[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | - | - | - | -
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | - | 🚧 | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | No Proof Yet
+[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | - | ✅ | [Pre-College Course on Mathematics for CS](https://open.hpi.de/learn/mathe2023) | [Own Certificate](https://raw.githubusercontent.com/Cranjah/Cranjah/refs/heads/main/images/Certificates-IT-MMMuench-21.png)
 
 ### Calculus 
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
@@ -124,7 +124,7 @@ Calculus is the study of change (differential calculus) and accumulation of quan
 `Infinity`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | [High School Math](https://ossu.dev/precollege-math) | - | - | -
 [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | Calculus 1A | - | - | -
 [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | Calculus 1B | - | - | -
@@ -140,7 +140,7 @@ Differential equations describe the science of change: the route by which natura
 `Laplace Transforms`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) | 14 weeks | 12 hours/week | Calculus 1C | - | - | -
 
 ### Discrete Mathematics
@@ -153,8 +153,8 @@ Discrete mathematics is the mathematics of objects and ideas. It includes topics
 `Logic and Reasoning`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | 14 weeks | 6-8 hours/week | Calculus 1C | - | - | -
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) | 14 weeks | 6-8 hours/week | Calculus 1C | 🚧 | [Per eBook Reading](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) | [Per eBook Reading](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) 
 
 ### Linear Algebra
 Linear algebra is the mathematics of spatial relationships that deals with the manipulation of vectors and matrices. It provides an elegant way to consider many simultaneous equations, visualize arbitrarily-many dimensions, and explain complex phenomena in simple terms.
@@ -166,9 +166,9 @@ Linear algebra is the mathematics of spatial relationships that deals with the m
 `Eigenvalues and Eigenvectors`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [High School Math](https://ossu.dev/precollege-math) | - | - | -
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra | - | - | -
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [High School Math](https://ossu.dev/precollege-math) | ✅ | [Per HWR Curriculum](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Curriculum) | [Per HWR Enrollment](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Enrollment)
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | Essence of Linear Algebra | ❌ | [Per HWR Curriculum](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Curriculum) | [Per HWR Enrollment](https://github.com/Cranjah/Cranjah/tree/main/studies/HWR-Berlin-Enrollment)
 
 ### Probability & Statistics
 Probability is the mathematics of uncertainty. Statistics is the mathematical framework for quantifying uncertainty in real-world data. These two related but distinct fields of study help us describe variation and uncertainty in the world around us. These courses make heavy use of discrete mathematics, linear algebra, and calculus, and serve as a first opportunity to apply what you've learned in the other core courses.
@@ -179,10 +179,9 @@ Probability is the mathematics of uncertainty. Statistics is the mathematical fr
 `Probability Distributions`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) | 14 weeks | 12-16 hours/week | Multivariable Calculus, Math for Computer Science, Linear Algebra | - | - | -
 [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/) | 14 weeks | 12-16 hours/week | Probability | - | - | -
-
 ### Introduction to Analysis
 Analysis is the mathematics of sequences and limits. Intro to Analysis is a course that builds on the concepts of Calculus and provides a rigorous and formalized study of the foundations of Calculus. This course will use formal proofs to establish mathematical results, starting by proving the existence of real numbers and building the foundation of single-variable Calculus from scratch.
 
@@ -191,7 +190,7 @@ Analysis is the mathematics of sequences and limits. Intro to Analysis is a cour
 `Real Analysis`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
 [Introduction to Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/) | 14 weeks | 8-10 hours/week | Multivariable Calculus | - | - | -
 [Supplemental Lecture Videos](https://www.youtube.com/watch?v=EaKLXK4hFFQ&list=PLmU0FIlJY-MngWPhBDUPelVV3GhDw_mJu&index=1) | 16 weeks | 8-10 hours/week | Multivariable Calculus | - | - | -
 
@@ -203,8 +202,8 @@ Abstract algebra (occasionally called modern algebra) is the study of algebraic 
 `Rings and Fields`
 
 Courses | Duration | Effort | Prerequisites | Passed | Taken | Proof
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
-[Introduction to Abstract Group theory](https://nptel.ac.in/courses/111106113) | 8 weeks | 8-10 hours/week | [High School Math](https://ossu.dev/precollege-math) | - | - | -
+:--: | :--: | :--: | :--: | :--: | :--: | :--:
+[Introduction to Abstract Group Theory](https://nptel.ac.in/courses/111106113) | 8 weeks | 8-10 hours/week | [High School Math](https://ossu.dev/precollege-math) | - | - | -
 [Introduction to Rings and Fields](https://nptel.ac.in/courses/111106131) | 8 weeks | 8-10 hours/week | Introduction to Abstract Group Theory | - | - | -
 
 
@@ -249,5 +248,5 @@ What is next for you? The possibilities are boundless and overlapping:
 
 [Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub Repo](https://github.com/ossu/computer-science) into your own GitHub Account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses). Use the ❌ to mark courses you did not pass (just in case) and 🚧 for things you are working on at the moment, might be a course / reading in progress or something else - be creative!
 
-# License
+## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
