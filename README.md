@@ -51,7 +51,7 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - For simplicity, we recommend working through courses in order from top to bottom, as they have already been sorted by their prerequisites.
-- Courses in Core Mathematics are the basic requirements for all OSSU Math students and provide a foundation for deeper study. Take all of these courses.
+- Courses in Core Mathematics are the basic requirements for all OSSU math students and provide a foundation for deeper study. Take all of these courses.
 - Courses in Advanced Mathematics are electives. Take one course in each topic area. Then choose one topic you want to become an expert in and take all three courses under that topic. You can also create your own custom subject (we recommend getting validation from the community on the subject you choose).
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
