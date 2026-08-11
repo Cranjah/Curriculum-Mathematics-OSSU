@@ -17,8 +17,8 @@
 
 - [Summary](#summary)
 - [Community](#community)
-- [Code of Conduct](#code-of-conduct)
-- [The Math Curriculum](#the-math-curriculum)
+- [Math Curriculum](#math-curriculum)
+- [The Code of Conduct](#the-code-of-conduct)
 - [License](#license)
 
 
@@ -74,11 +74,7 @@ just remember that you can't purchase success!
 >  - Third-party notion templates
 
 
-# Code of Conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-
-# The Math Curriculum
+# Math Curriculum
 
 The curriculum is separated into two parts:
 
@@ -244,9 +240,15 @@ What is next for you? The possibilities are boundless and overlapping:
 
 <img src="https://raw.githubusercontent.com/Cranjah/Curriculum-Computer-Science-OSSU/refs/heads/master/images/keep-learning.png" alt="Keep Learning."/>
 
+
+# The Code of Conduct
+[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+
+
 ## How to show your progress
 
 [Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub Repo](https://github.com/ossu/computer-science) into your own GitHub Account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [Kanban Board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses). Use the ❌ to mark courses you did not pass (just in case) and 🚧 for things you are working on at the moment, might be a course / reading in progress or something else - be creative!
+
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
